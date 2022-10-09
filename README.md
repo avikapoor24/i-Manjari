@@ -1,4 +1,4 @@
-![I am the creator of this GitHub Readme Generator](https://github.com/avikapoor24/avikapoor24/blob/e0811f3cd78f63c2b71a1829f2808c6b276df455/Welcome%20To%20my%20github%20(4).gif)
+![I am the creator of this GitHub Readme Generator]
 
 <h1 align="center">Hi 👋, I'm Manjari</h1>
 <h3 align="center">I am the creator of this GitHub Readme Generator
