@@ -28,7 +28,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=I-Manjari&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-[![@14manjari's Holopin board](https://holopin.io/api/user/board?user=I-Manjari)](https://holopin.io/@Manjari)
+[![@manjari's Holopin board](https://holopin.io/api/user/board?user=manjari)](https://holopin.io/@manjari)
 
 <a><h2>My Github Status</h2></a>
 
