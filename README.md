@@ -23,11 +23,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/I-Manjari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manjari-879a6922a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/)  
 <a><h3>🏆 Github Profile Trophy</h3></a>
+
 <a>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=I-Manjari&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-
+[![@14manjari's Holopin board](https://holopin.io/api/user/board?user=I-Manjari)](https://holopin.io/@14manjari)
 
 <a><h2>My Github Status</h2></a>
 
