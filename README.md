@@ -1,5 +1,3 @@
-![I am the creator of this GitHub Readme Generator]
-
 <h1 align="center">Hi 👋, I'm Manjari</h1>
 <h3 align="center">I am the creator of this GitHub Readme Generator
 </h3>
